@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ijs:home|Door43 (ijs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ijs|d43-ijs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ijs/archive/master.zip|d43-ijs.zip]]
+
+**Recent Changes**
+{{changes>ns = ijs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ijs|Ethnologue data]]
+
